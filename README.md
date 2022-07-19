@@ -1,10 +1,11 @@
-# Livro de receitas :man_cook:
+# Livro de Receitas :man_cook:
 
-Olá! Bem-vind@ ao meu livro de receitas :wave:
+### Olá! Bem-vind@ ao meu livro de receitas... :wave::smile:
 
-- Strogonoff de frango
+#### Receitas:
 
-- Pavê
+- [Bolo de cenoura com cobertura de chocolate 🥕🍫](https://github.com/Taresu/livro-receitas/blob/main/receitas/bolo_cenoura.md)
 
-- Bolo de cenoura
+- [Strogonoff de frango 🐔](https://github.com/Taresu/livro-receitas/blob/main/receitas/strogonoff.md)
 
+- [Pavê 🍫](https://github.com/Taresu/livro-receitas/blob/main/receitas/pave.md)
