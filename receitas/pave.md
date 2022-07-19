@@ -52,7 +52,7 @@
 
 ### Modo de Preparo 
 
-**1. **Em uma tigela, misture o leite e o chocolate em pó até que esteja completamente dissolvido.
+**1.** Em uma tigela, misture o leite e o chocolate em pó até que esteja completamente dissolvido.
 
 **2.** Molhe as bolachas no leite e reserve.
 
@@ -66,7 +66,7 @@
 
 **Creme de chocolate:**
 
-**4. ** Repita o processo feito no creme branco.
+**4.** Repita o processo feito no creme branco.
 
 
 
