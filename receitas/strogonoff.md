@@ -38,3 +38,4 @@
 
 
 
+### Fonte: [Strogonoff de frango | Receitas (globo.com)](https://receitas.globo.com/strogonoff-de-frango-simples-4fbe8cc656ec5b3c9801b7e5.ghtml)
